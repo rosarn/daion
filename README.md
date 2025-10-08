@@ -23,23 +23,47 @@
 - **📋 Detailed Reporting** - Export data dalam format CSV/Excel
 - **🎨 Modern UI/UX** - Interface yang clean dan responsive
 
-## 🏗️ Project Structure
+## 🏗️ Project Structure (Restructured Monorepo)
 
 ```
 daion/
-├── 📁 juliagustus/          # Data dan analisis periode Juli-Agustus
-│   ├── allarea.py           # Analisis semua area
-│   ├── jakarta.py           # Analisis area Jakarta
-│   ├── depok.py            # Analisis area Depok
-│   └── ...                 # File analisis area lainnya
-├── 📁 agustusseptember/     # Data periode Agustus-September
-├── 📁 venv/                # Virtual environment
-├── 📄 satu.py              # 🚀 Main dashboard application
-├── 📄 main.py              # Navigation hub
-├── 📄 test.py              # Testing environment
-├── 📄 requirements.txt     # Dependencies
+├── 📄 main.py                 # 🚀 Main application entry point
+├── 📁 src/                    # Source code modules
+│   ├── 📁 data/              # Data layer
+│   │   ├── __init__.py
+│   │   ├── models.py         # Data structures and validation
+│   │   └── loader.py         # Data loading and processing
+│   ├── 📁 analytics/         # Business logic and metrics
+│   │   ├── __init__.py
+│   │   └── metrics.py        # Performance calculations
+│   ├── 📁 ui/                # User interface components
+│   │   ├── __init__.py
+│   │   ├── styles.py         # CSS styling and themes
+│   │   └── components.py     # Reusable UI components
+│   ├── 📁 visualizations/    # Chart and plotting functions
+│   │   ├── __init__.py
+│   │   └── charts.py         # Plotly visualizations
+│   └── 📁 shared/            # Shared utilities
+│       └── __init__.py
+├── 📁 tests/                 # Test suite
+│   └── __init__.py
+├── 📁 config/                # Configuration files
+├── 📁 docs/                  # Documentation
+├── 📁 juliagustus/          # Legacy data files
+├── 📁 agustusseptember/     # Legacy data files
+├── 📄 satu.py              # Original monolithic file (legacy)
+├── 📄 requirements.txt     # Python dependencies
 └── 📄 README.md           # Documentation (this file)
 ```
+
+### 🔄 Architecture Benefits
+
+The restructured monorepo provides:
+- **Clear separation of concerns** through modular components
+- **Proper package boundaries** and shared libraries
+- **Maintained existing functionality** throughout restructuring
+- **Robust dependency management** between modules
+- **Scalable and maintainable** codebase structure
 
 ## 🚀 Quick Start
 
