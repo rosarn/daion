@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/backend",
+  "projectType": "application",
+  "targets": {
+    "serve": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "cd apps/backend && uvicorn main:app --reload"
+      }
+    },
+    "backend": {
+      "executor": "nx:run-commands",
+      "outputs": [],
+      "options": {
+        "command": "cd apps/backend && uvicorn main:app --reload"
+      }
+    }
+  }
+}

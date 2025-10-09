@@ -230,7 +230,10 @@ def load_data() -> pd.DataFrame:
                  ['Jakarta']*26 + ['Depok']*22 + ['Cengkareng']*1 + ['Klapanunggal']*8 + ['Cileungsi']*6 + ['Parung']*7 + ['Tambun']*8 +
                  ['Serang']*13 + ['Cilegon']*6 + ['Kab Pandeglang']*6 +
                  ['Semarang']*52 + ['Kendal']*13 + ['Demak']*12 + ['Kudus']*4 + ['Cilacap']*14 + ['Kebumen']*9 + ['Purwokerto']*5 +
-                 ['Tegal']*10 + ['Solo']*26 + ['Klaten']*9 + ['Jogja']*23 + ['Tasikmalaya']*20 + ['Kab Tasik']*6),
+                 ['Tegal']*10 + ['Solo']*26 + ['Klaten']*9 + ['Jogja']*23 + ['Tasikmalaya']*20 + ['Kab Tasik']*6 +
+                 ['Garut']*20 + ['Banjar']*20 + ['ciamis']*12 + ['Ciawi']*8 + ['Bandung Raya']*8 + ['Cianjur']*5 +
+                 ['Kediri']*17 + ['Surabaya']*7 + ['Ponorogo']*3 + ['Malang']*6 + ['Denpasar']*21 + ['Tabanan']*5 + ['Negara']*12 + ['Badung']*22 +
+                 ['Bangka Belitung']*16 + ['Medan']*12 + ['Cirebon']*21 + ['Subang']*16 + ['Karawang']*5 + ['Purwakarta']*6 + ['Cisolok']*6),
         
         # SUB-AREA CLASSIFICATION:
         # =======================
@@ -240,7 +243,10 @@ def load_data() -> pd.DataFrame:
                     ['Bogor - Klapanunggal']*8 + ['Bogor - Cileungsi']*6 + ['Bogor - Parung']*7 + ['Bogor - Tambun']*8 + 
                     ['Banten - Serang']*13 + ['Banten - Cilegon']*6 + ['Banten - Kab Pandeglang']*6 + 
                     ['Semarang']*52 + ['Kendal']*13 + ['Demak']*12 + ['Kudus']*4 + ['Cilacap']*14 + ['Kebumen']*9 + ['Purwokerto']*5 +
-                    ['Tegal']*10 + ['Solo']*26 + ['Klaten']*9 + ['Jogja']*23 + ['Tasikmalaya']*20 + ['Kab Tasik']*6),
+                    ['Tegal']*10 + ['Solo']*26 + ['Klaten']*9 + ['Jogja']*23 + ['Tasikmalaya']*20 + ['Kab Tasik']*6 +
+                    ['Garut']*20 + ['Banjar']*20 + ['ciamis']*12 + ['Ciawi']*8 + ['Bandung Raya']*8 + ['Cianjur']*5 +
+                    ['Kediri']*17 + ['Surabaya']*7 + ['Ponorogo']*3 + ['Malang']*6 + ['Denpasar']*21 + ['Tabanan']*5 + ['Negara']*12 + ['Badung']*22 +
+                    ['Bangka Belitung']*16 + ['Medan']*12 + ['Cirebon']*21 + ['Subang']*16 + ['Karawang']*5 + ['Purwakarta']*6 + ['Cisolok']*6),
         
         # TEAM MEMBER IDENTIFICATION:
         # ===========================
@@ -378,7 +384,92 @@ def load_data() -> pd.DataFrame:
             'Veri Septiana', 'Piki Badarudin', 'Acep Rizal',
             #Kab Tasik 6 members
             'Iman Firman', 'Dian Hernanda', 'Trisna Juliansyah', 'Abdul Koharudin',
-            'Dasep Abdul Gopur', 'Rudiansyah Moch Azhar'
+            'Dasep Abdul Gopur', 'Rudiansyah Moch Azhar',
+
+            #Garut 20 members
+            'Gungun Gunawan', 'Enur Husni Mubarok', 'Teten Solehudin', 'Musadad Alfaris',
+            'Nuri Nuryanti', 'Rifqi Sofwandi', 'Fahmi', 'Aditia Paturohman', 'Trisna Dwinanda',
+            'Yadi Budiman', 'Rohmat Yusup', 'Wandi Rizki Mauludin', 'Aditya Yuda Pratama',
+            'Yeyen Yudaningsih', 'Mia Kurniawan', 'Muhammad Al - Barra', 'Nurul Nurbaeti',
+            'Diki Somantri', 'Boma Jaya Priatna', 'Riki Suganda',
+            #Banjar 20 members
+            'Rendra Dudia Sugara, S.T', 'Lusy Krisbiyanti', 'Yayan Sugiana', 'Ujang Yanto Priyanto',
+            'Yuyun Nugraha', 'Kris Ardianto', 'Dindin Solehudin', 'Sachir Adam Nurba', 'Ipan Sopyan',
+            'Yulius Hilman', 'Deny Irawan', 'Adi Suryadi', 'Herdin Budiawan', 'Aditya Abdul Muhyi',
+            'Nanang Supriatna', 'Angga Merdiana', 'Mahmud', 'Ahmad Arif Satriono', 'Deri Kusdiana',
+            'Yeni Hardiyani',
+            #Ciamis 12 members
+            'Agnes Jatnika', 'Ega Imam Syuhada', 'Fuji Firmansyah Saputra', 'Pizki Astrid Desianti',
+            'Denny Tri Sutendi', 'Iwan Setiawan', 'Osa Usman Rusmana', 'Sandi Rustandi',
+            'Santi Mulyanti', 'Insan Saeful Anwar', 'Eka Kartika', 'Mulyamin Aziz',
+            #Ciawi 8 members
+            'Heri Nurdin J', 'Didi Junaedi', 'Dede Duhan', 'Deni Wilantara', 'Yendi Herdian', 'Jopi Safari', 'Dimas Kurnia Asprilla', 'Yulistia Cahya Kurnia',
+            #Bandung Raya 8 members
+            'Robyana', 'Riyadi Wijaya', 'Aep Yudi', 'Roni Herlani', 'Angga Saputra', 'Irsyad Abidin', 'Samsudin', 'Dema Ahmad Yanuar',
+            #Cianjur 5 members
+            'Joni M. Fajar', 'Hendra Darmawan', 'Deni Kurniawan', 'Yeni Sri Ismiati', 'Iki Muhammad Rizky',
+
+            #Kediri 17 members
+            'TEGUH JUNNARTO', 'NUR BUDI FEBRIANTO', 'DEWI YUNANIK', 'IMA PUSPITASARI',
+            'DIMAS RAMADHANA', 'LUSI PURWANTI', 'KHOIRUL SULTONI', 'VIRDIAS FATKA PRATAMA',
+            'DWI OKTAVIANUS LANGGENG SAPUTRO', 'ARIEF SETYAJI', 'IVON DENSI YOUS MARLINA',
+            'RAMADHAN VICKO RAFSANJANI', 'IMAM FATONI', 'LUTFI HIDAYAT', 'TRI LESTARI',
+            'CAHYO WICAKSONO', 'DAFIT PRASETIO',
+            #Surabaya 7 members
+            'Vincentius Fajar Pristiyowanto', 'AYOK SETIYAWAN', 'achmad bahak udin', 'Moh Dendron Sekundratmo', 'Novan Indarto', 'Imanda Haryo Kusumo', 'Gatot Tri Widodo',
+            #Ponorogo 3 members
+            'MAMAN FIRMANSYAH', 'ARYO ADHITYAS SETYO', ''
+            'YETTI FITASARI',
+            #Malang 6 members
+            'Swardana Arie Ardiansyah', 'Redy Deny Triharyanto', 'Ricky Supriadi', 'Sri Mawarni', 'Roy Kusdinono', 'Retno Dinafsyaratri',
+
+            #Denpasar 21 members
+            'SITI NURHAYATI', 'I MADE JULIANTARA', 'NI MADE KARMI', 'PUTU AGUS PRAMANA PUTRA',
+            'SUGIYANTO', 'DENY PANGDIG JAYA', 'NI WAYAN MELLAS RISOMAGI', 'I WAYAN PUTRA PRATAMA',
+            'KADEK DEDI RIMAWAN', 'I WAYAN PUTU SARJANA', 'I NENGAH SEMARA PUTA', 'I KOMANG JANUADI',
+            'I PUTU AGUS RESKA.K.V', 'NI KOMANG AYU.W', 'BAYU SAPUTRA', 'DHIENRY MARTIANDIKA S',
+            'I GUSTI NGURAH AGUNG RAI RAMANATHA', 'TRIANA JIHAN', 'NAWAL FAIQOTUL HIKMAH',
+            'BARTHOLOMEUS M.J PAREIRA', 'MARSELINUS SUPARDI',
+            #Tabanan 5 members
+            'Moh Sadam Putra', 'Vernando Vargas Kahale', 'ketut Artha Suardika', 'Mohammad Fa is', 'Anditya Rizki Alfian Adha',
+            #Negara 12 members
+            'Jimmi Kurniawan', 'Heri Susanto', 'Erwin Hadi', 'I Putu Nova Eka Swastika',
+            'Mohamad Fauzi', 'Wiji Astuti', 'I Gede Candra Permana Putra Wibawa', 'Zainus Salim',
+            'Kristin Prihatini', 'I Gusti Agung Komang Panji Wiryawan', 'Sayu Putu Puspa Desi Astiti', 'Ahmad Hasibin',
+            #Badung 22 members
+            'GEDE OKA CAHYADI PRATAMA', 'NI LUH PUTU ADINDA SUCI LESTARI', 'NI LUH PUTU ASTITI DEWI',
+            'MALIANA', 'I MADE CANDRA PRANATA', 'I KADEK ALDI ARTANA', 'I GUSTI NGURAH AGUNG MARTA WEDANA PUTRA',
+            'IRVAN RYNALDI', 'YUDA PRATAMA', 'AGUS JUNIANTO', 'MUHAMMAD CAHYO SAPUTRO', 'PUTU AGUS DARMAWAN',
+            'AHMAD REHAN DIKI PRAYOGA', 'SAFRIZAL HUTAGALUNG', 'EBEN HAZAER ZAI', 'CERELINA TIO FANI',
+            'BAYU FERNANDO', 'JORDI UMBU LELE', 'PANGGAH LESTYO ARDIAN', 'M.DWIKI DHARMAWAN',
+            'HIKMA HAQIQI', 'BINTANG SURIADI SIBARANI',
+            #Bangka Belitung 16 members
+            'RISKI ADE WIJAYA', 'EGI PRASETYO', 'AKHMAD FERDIAWAN RIANSAH', 'RISKOMAR',
+            'DJUNAS AGUNG PRIHARDA', 'DEVI OKTAFIANTO', 'DAHLIA', 'SELVIANI UTAMI',
+            'AMANDA DESIKA', 'DWI EGI RAMDANI', 'YUDI DAMANHURI', 'NURYANI',
+            'MARYADI', 'HERLINA MAULITA', 'JOPITER', 'SINTIA',
+            #Medan 12 members
+            'IRWAN FAUZI HARAHAP', 'JAMOT MANALU', 'DIAN ADI PUTRA HASIBUAN', 'YON SIDEK SAGALA',
+            'FERI PRATAMA', 'IVAL YOGA SARA', 'DEDE ZULKARNAIN', 'MUHAMMAD FASHA',
+            'HOTMAULI SIMAREMARE', 'RAYMOND H SITANGGANG', 'MHD DANDI PRATAMA', 'NANDA AKBAR',
+
+            #Cirebon 21 members
+            'ACHMADUN', 'MAILAN', 'TRI WAHYONO', 'HARYONO', 'DESI KUSRIYANTI', 'ABDUL RAJAB',
+            'AJIS SAPTORI', 'ASTRI RAHMAWATI', 'TEGUH PRABOWO', 'SUTAN ALI SOBANA', 'HAFID SANGIDUN',
+            'SUJA SUDIRJA', 'RD UJANG OTAN HARTANTO', 'UNTUNG WIBOWO', 'CUT SALSABILAH SUCIANI',
+            'MUHAMAD ALFANI', 'DHANI RAMADON', 'ZULMI RAMADHAN', 'HERU SAPUTRA', 'RAHMAT GUMILANG',
+            'RIFFAN MUBAROK',
+            #Subangg 16 members
+            'BAGAS PERMANA', 'DWI HARI PURNAMA', 'JENAR NURJANI', 'ASEP RAHMAT', 'LILI WARNALI',
+            'RAHMAT HIDAYAT', 'YOGI HERMAWAN', 'AHMAD BUCHORI', 'NAZAR YAHYA', 'ARDEN ZUHDI',
+            'MUHAMMAD JAKA NUGRAHA', 'UCI SANUSI', 'DENI WAHYUDIN', 'MOCHAMAD ALEK LESMANA',
+            'GINANJAR MAULANA YUSUF', 'Edi Sunardi',
+            #Karawang 5 members
+            'PANDI', 'FERRY MAHALIO SUDADI', 'RIDWAN MAULANA', 'DADI', 'JAMALUDIN',
+            #Purwakarta 6 members
+            'GANI MAULANA', 'RONI CAHYANI', 'FERDINAND EKO DEWA', 'AGUNG SURYANINGRAT', 'JONATHAN RIRIHENA', 'HERDIANSYAH FAUZAN',
+            #Cisolok 6 members
+            'DEFFAN KAHFI ADHIGUNA', 'GITUS GISMANA', 'MOHAMAD RAMLI', 'YULI YULIANA', 'YOGI', 'AGAM MULIA'
         ],
         
         # ROLE CLASSIFICATION:
@@ -392,7 +483,19 @@ def load_data() -> pd.DataFrame:
                   #CilacapKebumenPurwokerto
                   ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*7 + ['SPV']*2 + ['DS']*7 + ['SPV'] + ['DS']*4 +
                   ['SPV'] + ['DS']*9 + ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*7 + ['SPV'] + ['DS']*8 + ['SPV'] + ['DS']*7 + ['SPV'] + ['DS']*6 + ['SPV'] + ['DS']*7 + #TegalSoloKlatenJogja
-                  ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*7 + ['SPV'] + ['DS']*5 #TasikmlayaKabTasik
+                  ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*7 + ['SPV'] + ['DS']*5 + #TasikmlayaKabTasik
+                  #GarutBanjarCiamisCiawiBandungRayaCianjur
+                  ['SPV'] + ['DS']*7 + ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*7 + ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*5 +
+                  ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*7 + ['SPV'] + ['DS']*7 + ['SPV'] + ['DS']*4 +
+                  #KediriSurabayaPonorogoMalang
+                  ['SPV'] + ['DS']*8 + ['SPV'] + ['DS']*7 + ['SPV'] + ['DS']*6 + ['SPV'] + ['DS']*2 + ['DS']*6 +
+                  #DenpasarTabananNegaraBadung
+                  ['SPV'] + ['DS']*7 + ['SPV'] + ['DS']*7 + ['SPV'] + ['DS']*4 + ['SPV'] + ['DS']*4 + ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*6 + ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*2 +
+                  #BangkabelitungMedan
+                  ['SPV'] + ['DS']*3 + ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*5 + ['SPV'] + ['DS']*5 +
+                  #Cirebon
+                  ['SPV'] + ['DS']*7 + ['SPV'] + ['DS']*4 + ['SPV'] + ['DS']*7 + ['SPV'] + ['DS']*7 + ['SPV'] + ['DS']*7 + ['SPV'] + ['DS']*4 + ['DS']*6 + ['SPV'] + ['DS']*5
+
                   ),
         
         # TARGET ALLOCATION:
@@ -425,7 +528,23 @@ def load_data() -> pd.DataFrame:
                     [25, 25, 25, 25, 25, 25, 25, 25, 25] +
                     [25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25] +
                     #TasikmalayaKabTasik
-                    [35, 25, 25, 25, 25, 25, 35, 25, 25, 25, 25, 25, 35, 25, 25, 25, 25, 25, 25, 25] + [35, 25, 25, 25, 25, 25] 
+                    [35, 25, 25, 25, 25, 25, 35, 25, 25, 25, 25, 25, 35, 25, 25, 25, 25, 25, 25, 25] + [35, 25, 25, 25, 25, 25] +
+                    #GarutBanjarCiamisCiawiBandungRayaCianjur
+                    [35, 25, 25, 25, 25, 25, 25, 25, 35, 25, 25, 25, 25, 25, 35, 25, 25, 25, 25, 25] +
+                    [35, 25, 25, 25, 25, 25, 25, 25, 35, 25, 25, 25, 25, 25, 35, 25, 25, 25, 25, 25] +
+                    [35, 25, 25, 25, 25, 25, 35, 25, 25, 25, 25, 25] + [35, 25, 25, 25, 25, 25, 25, 25] + [35, 25, 25, 25, 25, 25, 25, 25] + [35, 25, 25, 25, 25] +
+                    #KediriSurabayaPonorogoMalang
+                    [35, 25, 25, 25, 25, 25, 25, 25, 25, 35, 25, 25, 25, 25, 25, 25, 25] + 
+                    [35, 25, 25, 25, 25, 25, 25] + [35, 25, 25] + [25, 25, 25, 25, 25, 25] +
+                    #DenpasarTabananNegaraBadung
+                    [15, 25, 25, 25, 25, 25, 25, 25, 15, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25] + [35, 25, 25, 25, 25] +
+                    [35, 25, 25, 25, 25, 25, 35, 25, 25, 25, 25, 25] + [35, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 35, 25, 25, 25, 25, 25, 25, 25, 25] +
+                    #BangkabelitungMedan
+                    [35, 25, 25, 25, 35, 25, 25, 25, 25, 25, 35, 25, 25, 25, 25, 25] + [25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25] +
+                    #CirebonSubangKarawangPurwakartaCisolok
+                    [35, 25, 25, 25, 25, 25, 25, 25, 35, 25, 25, 25, 25, 35, 25, 25, 25, 25, 25, 25, 25] +
+                    [35, 25, 25, 25, 25, 25, 25, 25, 35, 25, 25, 25, 25, 25, 25, 25] + [35, 25, 25, 25, 25] +
+                    [25, 25, 25, 25, 25, 25] + [35, 25, 25, 25, 25, 25]
                     ),
     
         # ACTUAL SALES ACHIEVEMENT:
@@ -446,7 +565,15 @@ def load_data() -> pd.DataFrame:
                     [0, 37, 14, 36, 28, 4, 4, 40, 25, 12, 20, 6, 6, 9] + [2, 6, 27, 25, 16, 11, 0, 0, 0] + [0, 36, 14, 7, 1] + #CilacapKebumenPPurwokerto
                     [0, 36, 41, 35, 21, 31, 14, 22, 3, 3] + [0, 57, 10, 11, 12, 9, 0, 13, 19, 8, 31, 9, 0, 26, 21, 12, 2, 2, 0, 12, 1, 2, 20, 3, 0, 3] +
                     [10, 10, 17, 13, 17, 3, 4, 5, 1] + [0, 18, 12, 11, 15, 12, 7, 5, 0, 13, 26, 10, 3, 1, 9, 0, 49, 13, 14, 12, 18, 11, 10] + #TegalSoloKlatenJogja
-                    [0, 61, 25, 6, 18, 3, 2, 28, 34, 31, 29, 21, 1, 25, 32, 32, 36, 25, 28, 34] + [0, 38, 15, 36, 22, 15] #TasikmalayaKabTasik
+                    [0, 61, 25, 6, 18, 3, 2, 28, 34, 31, 29, 21, 1, 25, 32, 32, 36, 25, 28, 34] + [0, 38, 15, 36, 22, 15] + #TasikmalayaKabTasik
+                    [2, 33, 21, 17, 25, 27, 18, 31, 0, 29, 29, 41, 26, 21, 3, 20, 22, 23, 21, 25] + [0, 24, 17, 25, 21, 30, 12, 28, 0, 19, 26, 19, 22, 19, 0, 27, 21, 20, 17, 24] +
+                    [0, 40, 28, 25, 15, 18, 3, 24, 30, 17, 34, 16] + [35, 25, 25, 25, 25, 25, 25, 25] + [35, 25, 25, 25, 25, 25, 25, 25] + [0, 22, 14, 17, 25] + #GarutBanjarCiamisCiawiBandungRayaCianjur
+                    [2, 17, 16, 14, 17, 1, 5, 1, 0, 1, 17, 6, 9, 7, 7, 10, 17] + [1, 4, 3, 4, 1, 1, 6] + [4, 11, 1] + [10, 3, 1, 1, 1, 0] + #KediriSurabayaPonorogoMalang
+                    [10, 23, 28, 6, 17, 0, 0, 2, 2, 25, 37, 15, 8, 8, 7, 4, 0, 30, 5, 2, 1] + [0, 0, 6, 36, 0] + 
+                    [0, 28, 44, 26, 8, 7, 0, 27, 17, 0, 0, 0] + [0, 31, 84, 19, 9, 2, 2, 0, 64, 25, 18, 21, 2, 0, 28, 51, 7, 29, 7, 6, 20, 1] + #DenpasarTabananNegaraBadung
+                    [3, 17, 16, 6, 0, 9, 15, 18, 19, 7, 9, 21, 20, 33, 22, 3] + [0, 35, 32, 40, 26, 18, 0, 31, 35, 31, 18, 16] + #BangkabelitungMedan
+                    [0, 14, 17, 12, 9, 21, 12, 8, 0, 40, 49, 55, 72, 0, 28, 15, 15, 28, 27, 21, 11] + 
+                    [0, 4, 34, 27, 23, 33, 7, 3, 0, 13, 23, 29, 24, 8, 3, 0] + [0, 29, 29, 13, 12] + [2, 8, 4, 5, 2, 5] + [0, 15, 8, 13, 18, 2] #CirebonSubangKarawangPurwakartaCisolok
                 )
     }
 
