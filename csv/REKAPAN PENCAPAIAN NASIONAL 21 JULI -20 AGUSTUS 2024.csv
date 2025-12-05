@@ -1,0 +1,644 @@
+Area,SubArea,Nama,Grade,Target,Sales
+Jakarta,Jakarta,Santoso Nainggolan,SPV,35,7
+Jakarta,Jakarta,Daniel Parlindungan,S2,25,24
+Jakarta,Jakarta,Santo Yahya Purba,S2,25,24
+Jakarta,Jakarta,Ibbe Arfiah Ambarita,S2,25,17
+Jakarta,Jakarta,Ninton Silitonga,S2,25,7
+Jakarta,Jakarta,Irwan Panjaitan,S2,25,26
+Jakarta,Jakarta,Ignatius Romy Setyawan,S2,25,18
+Jakarta,Jakarta,Rokhyati BT Wain,S2,25,0
+Jakarta,Jakarta,Hendrik Pandapotan,SPV,35,14
+Jakarta,Jakarta,Juwisri Mariati Simanjuntak,S2,25,30
+Jakarta,Jakarta,Lely Meyana,S2,25,25
+Jakarta,Jakarta,Daniel Toni Sagala,S2,25,21
+Jakarta,Jakarta,Bastian Ronaldo Butar Butar,S2,25,17
+Jakarta,Jakarta,Maryanti Manalu,S2,25,15
+Jakarta,Jakarta,Fadli Syawalludin,S2,25,10
+Jakarta,Jakarta,Dimposma Hutagalung,SPV,35,3
+Jakarta,Jakarta,Leo Hermansyah,S2,25,17
+Jakarta,Jakarta,Alvin Jon Raya S,S2,25,24
+Jakarta,Jakarta,Julietta Winar Pasha,S2,25,13
+Jakarta,Jakarta,Hinando Praya Saragih,S2,25,22
+Jakarta,Jakarta,Suriati T.Situmeang,S2,25,16
+Jakarta,Jakarta,Rani Martina Samosir,S2,25,15
+Jakarta,Jakarta,Bruno Mario,SPV,35,1
+Jakarta,Jakarta,Moh Marifan Delavena,S2,25,1
+Jakarta,Jakarta,Indrah Septian,S2,25,1
+Jakarta,Jakarta,Irwanto,S2,25,2
+Depok,Depok,Fanda Waty Sry Ayu manalu,SPV,35,16
+Depok,Depok,Gresintia Samosir,S2,25,12
+Depok,Depok,Sari Nopita Sipahutar,S2,25,33
+Depok,Depok,Douglas sinaga,S2,25,11
+Depok,Depok,Delima Sihotang,S2,25,26
+Depok,Depok,Muhammad Hilmy,S2,25,1
+Depok,Depok,Kautsar,S2,25,0
+Depok,Depok,Raga Purnomo,S2,25,0
+Depok,Depok,Melyana Samosir,SPV,35,24
+Depok,Depok,Nova Indriani,S2,25,16
+Depok,Depok,Nanda Amalia Febriani,S2,25,28
+Depok,Depok,Lewi Indriyani Panggabean,S2,25,19
+Depok,Depok,Haryanti,S2,25,21
+Depok,Depok,Lia Rahmawati,S2,25,18
+Depok,Depok,Yandira Cahaya Putri,S2,25,17
+Depok,Depok,Abdul zaki,SPV,35,25
+Depok,Depok,Indah Fitria,S2,25,12
+Depok,Depok,Bayu Utomo,S2,25,5
+Depok,Depok,Asya Amalia,S2,25,9
+Depok,Depok,Rafika Khoirul,S2,25,12
+Depok,Depok,Herdiansyah,S2,25,4
+Depok,Depok,Muhammad Rifal,S2,25,6
+Cengkareng,Cengkareng,Muhammad Nur Zaman Akbar,S2,25,0
+Tangerang,Ciputat,BUDI SAMBODO,SPV,35,10
+Tangerang,Ciputat,MUHAMMAD SETIAWAN,DS,25,20
+Tangerang,Ciputat,MUHAMMAD NOVAL RAMADHAN,DS,25,21
+Tangerang,Ciputat,UKASAH,DS,25,14
+Tangerang,Ciputat,WIDI WIDAYAT,DS,25,23
+Tangerang,Ciputat,ERLAND ERLANGGA,DS,25,10
+Tangerang,Ciputat,MUHAMAD RISKI,DS,25,12
+Tangerang,Ciputat,MELINA,DS,25,3
+Tangerang,Ciputat,MONALISA SIPAHUTAR,SPV,35,2
+Tangerang,Ciputat,SUDARMANTO,DS,25,23
+Tangerang,Ciputat,SELLA RIZKIA,DS,25,22
+Tangerang,Ciputat,APRINA SIAGIAN,DS,25,20
+Tangerang,Ciputat,DIAN SRI ANDRYANI,DS,25,32
+Tangerang,Ciputat,SELSA BELLA HUTABARAT,DS,25,24
+Tangerang,Ciputat,NEINAH DAMAISARI,DS,25,6
+Tangerang,Ciputat,MIKA WANTI NAINGGOLAN,DS,25,5
+Tangerang,Kab Tangerang,SUHARDIANSYAH,SPV,35,0
+Tangerang,Kab Tangerang,DEA MAULIDAH,DS,25,26
+Tangerang,Kab Tangerang,M AZRIEL HAZNAM S,DS,25,32
+Tangerang,Kab Tangerang,AYULIA KHAERUNNISA,DS,25,28
+Tangerang,Kab Tangerang,RAHMAWATI,DS,25,5
+Tangerang,Kab Tangerang,RIZAL FAUZI,DS,25,2
+Tangerang,Kab Tangerang,FIGH TRI OKTAVIANO,DS,25,0
+Tangerang,Kab Tangerang,SITI HARDIANTI,DS,25,5
+Tangerang,Kab Tangerang,INE LUTFIA NOVELLA,DS,25,2
+Tangerang,Poris,DANIEL MATIUS KOLONDAM,SPV,35,0
+Tangerang,Poris,ARYA DILLA,DS,25,50
+Tangerang,Poris,GALIH KURNIAWAN,DS,25,19
+Tangerang,Poris,ZULHAM REINALLDO,DS,25,7
+Tangerang,Poris,DITA CAHYANI,DS,25,2
+Tangerang,Poris,INDAH NOVIYANTI,DS,25,2
+Tangerang,Poris,BUKHORI,DS,25,2
+Tangerang,Poris,M SOLEH,DS,25,17
+Tangerang,Poris,SUGANDA MS,DS,25,2
+Tangerang,Poris,IQBAL FADILAH,DS,25,1
+Bogor,Klapanunggal,SUSANTO HIDAYAT,SPV,35,0
+Bogor,Klapanunggal,IMEY MELIAWATI,S2,25,32
+Bogor,Klapanunggal,ATMA HAYYU FTIRIANTI,S2,25,28
+Bogor,Klapanunggal,WIDYA RAHMA,S2,25,36
+Bogor,Klapanunggal,DHEA APRILIA,S2,25,19
+Bogor,Klapanunggal,VELY FRIYANTI DJOHAN,S2,25,15
+Bogor,Klapanunggal,LUBIS SUGARA,S2,25,5
+Bogor,Klapanunggal,HAPITZA ALBAR,S2,25,8
+Bogor,Cileungsi,WILSON MANALU,SPV,35,0
+Bogor,Cileungsi,DEAREN HEAZEL REVIALY,S2,25,28
+Bogor,Cileungsi,SUMIATI,S2,25,27
+Bogor,Cileungsi,IRA ISMAYA,S2,25,45
+Bogor,Cileungsi,RISKA TASYA MONTANIA GIRSANG,S2,25,23
+Bogor,Cileungsi,YOGI AGUS RANDA,S2,25,29
+Bogor,Parung,SUKMA ANJALI,S2,25,6
+Bogor,Parung,Muhamad dapa Al rasid,S2,25,5
+Bogor,Parung,Rafly Ilham ramadhan,S2,25,2
+Bogor,Parung,abyan aryan saputra,S2,25,1
+Bogor,Parung,Ratna Tusyadiyah,S2,25,0
+Bogor,Parung,Friska Olivia Sihaloho,S2,25,1
+Bogor,Parung,DEVI ANDRIANI,S2,25,6
+Bogor,Tambun,Binsar Sudarmono Situmorang,SPV,35,16
+Bogor,Tambun,Mayang Putri Emaliana,S2,25,28
+Bogor,Tambun,Exaudi Parulian Situmorang,S2,25,23
+Bogor,Tambun,Marliana,S2,25,35
+Bogor,Tambun,Boyke Suhendra,S2,25,17
+Bogor,Tambun,Nahum Winardi putra Situmorang,S2,25,21
+Bogor,Tambun,Nunung septiani,S2,25,14
+Bogor,Tambun,Afifahtul Khusnul Khatimah,S2,25,2
+Banten,Serang,ABDUL RACHIM,SPV,35,7
+Banten,Serang,SRI LESTARI BUTAR BUTAR,DS,25,20
+Banten,Serang,PURWANTO,DS,25,19
+Banten,Serang,SUTRISNO,DS,25,20
+Banten,Serang,NYOTO,DS,25,13
+Banten,Serang,ROHMAN,DS,25,9
+Banten,Serang,JAFAR SIDIK,DS,25,5
+Banten,Serang,DAFFALDA KRISMONICA SEPTIA,DS,25,15
+Banten,Serang,OSRA ADRIZAL,SPV,35,8
+Banten,Serang,DENITA HULU,DS,25,22
+Banten,Serang,AHMAD YANI,DS,25,19
+Banten,Serang,JALALUDIN,DS,25,19
+Banten,Serang,ARIF PERMANA,DS,25,25
+Banten,Cilegon,SHODIK BAGUS SETIAWAN,SPV,35,8
+Banten,Cilegon,DWI EGA PAMUNGKAS,DS,25,25
+Banten,Cilegon,ALVIAR YOKA PRATAMA,DS,25,27
+Banten,Cilegon,M FAZRIL DARUSSALAM,DS,25,31
+Banten,Cilegon,NURMALASARI,DS,25,8
+Banten,Cilegon,DIMAS ADIANTO,DS,25,4
+Banten,Kab Pandeglang,DEDE IRWAN SETIAWIGUNA,SPV,35,36
+Banten,Kab Pandeglang,FAJAR MUBAROK,DS,25,2
+Banten,Kab Pandeglang,ULFAH MEILANI,DS,25,25
+Banten,Kab Pandeglang,BURHANUDIN,DS,25,16
+Banten,Kab Pandeglang,PUTRI AGUSTINA,DS,25,1
+Banten,Kab Pandeglang,NURDIN,DS,25,20
+Cirebon,Cirebon,ACHMADUN,SPV,35,0
+Cirebon,Cirebon,MAILAN,DS,25,14
+Cirebon,Cirebon,TRI WAHYONO,DS,25,17
+Cirebon,Cirebon,HARYONO,DS,25,12
+Cirebon,Cirebon,DESI KUSRIYANTI,DS,25,9
+Cirebon,Cirebon,ABDUL RAJAB,DS,25,21
+Cirebon,Cirebon,AJIS SAPTORI,DS,25,12
+Cirebon,Cirebon,ASTRI RAHMAWATI,DS,25,8
+Cirebon,Cirebon,TEGUH PRABOWO,SPV,35,0
+Cirebon,Cirebon,SUTAN ALI SOBANA,DS,25,40
+Cirebon,Cirebon,HAFID SANGIDUN,DS,25,49
+Cirebon,Cirebon,SUJA SUDIRJA,DS,25,55
+Cirebon,Cirebon,RD UJANG OTAN HARTANTO,DS,25,72
+Cirebon,Cirebon,UNTUNG WIBOWO,SPV,35,0
+Cirebon,Cirebon,CUT SALSABILAH SUCIANI,DS,25,28
+Cirebon,Cirebon,MUHAMAD ALFANI,DS,25,15
+Cirebon,Cirebon,DHANI RAMADON,DS,25,15
+Cirebon,Cirebon,ZULMI RAMADHAN,DS,25,28
+Cirebon,Cirebon,HERU SAPUTRA,DS,25,27
+Cirebon,Cirebon,RAHMAT GUMILANG,DS,25,21
+Cirebon,Cirebon,RIFFAN MUBAROK,DS,25,11
+Subang,Subang,BAGAS PERMANA,SPV,35,0
+Subang,Subang,DWI HARI PURNAMA,DS,25,4
+Subang,Subang,JENAR NURJANI,DS,25,34
+Subang,Subang,ASEP RAHMAT,DS,25,27
+Subang,Subang,LILI WARNALI,DS,25,23
+Subang,Subang,RAHMAT HIDAYAT,DS,25,33
+Subang,Subang,YOGI HERMAWAN,DS,25,7
+Subang,Subang,AHMAD BUCHORI,DS,25,3
+Subang,Subang,NAZAR YAHYA,SPV,35,0
+Subang,Subang,ARDEN ZUHDI,DS,25,13
+Subang,Subang,MUHAMMAD JAKA NUGRAHA,DS,25,23
+Subang,Subang,UCI SANUSI,DS,25,29
+Subang,Subang,DENI WAHYUDIN,DS,25,24
+Subang,Subang,MOCHAMAD ALEK LESMANA,DS,25,8
+Subang,Subang,GINANJAR MAULANA YUSUF,DS,25,3
+Subang,Subang,Edi Sunardi,DS,25,0
+Karawang,Karawang,PANDI,SPV,35,0
+Karawang,Karawang,FERRY MAHALIO SUDADI,DS,25,29
+Karawang,Karawang,RIDWAN MAULANA,DS,25,29
+Karawang,Karawang,DADI,DS,25,13
+Karawang,Karawang,JAMALUDIN,DS,25,12
+Purwakarta,Purwakarta,GANI MAULANA,DS,25,2
+Purwakarta,Purwakarta,RONI CAHYANI,DS,25,8
+Purwakarta,Purwakarta,FERDINAND EKO DEWA,DS,25,4
+Purwakarta,Purwakarta,AGUNG SURYANINGRAT,DS,25,5
+Purwakarta,Purwakarta,JONATHAN RIRIHENA,DS,25,2
+Purwakarta,Purwakarta,HERDIANSYAH FAUZAN,DS,25,5
+Cisolok,Cisolok,DEFFAN KAHFI ADHIGUNA,SPV,35,0
+Cisolok,Cisolok,GITUS GISMANA,DS,25,15
+Cisolok,Cisolok,MOHAMAD RAMLI,DS,25,8
+Cisolok,Cisolok,YULI YULIANA,DS,25,13
+Cisolok,Cisolok,YOGI,DS,25,18
+Cisolok,Cisolok,AGAM MULIA,DS,25,2
+Tasikmalaya,Tasikmalaya,Bangbang Himun H, S.Kom,SPV,35,0
+Tasikmalaya,Tasikmalaya,Hengki Permana,DS,25,61
+Tasikmalaya,Tasikmalaya,Ahmad Syahriar Irawan,DS,25,25
+Tasikmalaya,Tasikmalaya,Falhan Basya,DS,25,6
+Tasikmalaya,Tasikmalaya,Hendra Irawan,DS,25,18
+Tasikmalaya,Tasikmalaya,Dayu Gapura Irianto,DS,25,3
+Tasikmalaya,Tasikmalaya,Raisa Siti Ainiyah,SPV,35,2
+Tasikmalaya,Tasikmalaya,Hendar Suhendar,DS,25,28
+Tasikmalaya,Tasikmalaya,Davin Alim,DS,25,34
+Tasikmalaya,Tasikmalaya,Agung Dwi Laksono,DS,25,31
+Tasikmalaya,Tasikmalaya,Ari Hidayat,DS,25,29
+Tasikmalaya,Tasikmalaya,Cucu Komarudin,DS,25,21
+Tasikmalaya,Tasikmalaya,Berent Fariz,SPV,35,1
+Tasikmalaya,Tasikmalaya,Muhammad Fajar Siddiq,DS,25,25
+Tasikmalaya,Tasikmalaya,Entis,DS,25,32
+Tasikmalaya,Tasikmalaya,Dadang Dimyati,DS,25,32
+Tasikmalaya,Tasikmalaya,Dicky Fauzi Nurhidayat,DS,25,36
+Tasikmalaya,Tasikmalaya,Veri Septiana,DS,25,25
+Tasikmalaya,Tasikmalaya,Piki Badarudin,DS,25,28
+Tasikmalaya,Tasikmalaya,Acep Rizal,DS,25,34
+Kab Tasik,Kab Tasik,Iman Firman,SPV,35,0
+Kab Tasik,Kab Tasik,Dian Hernanda,DS,25,38
+Kab Tasik,Kab Tasik,Trisna Juliansyah,DS,25,15
+Kab Tasik,Kab Tasik,Abdul Koharudin,DS,25,36
+Kab Tasik,Kab Tasik,Dasep Abdul Gopur,DS,25,22
+Kab Tasik,Kab Tasik,Rudiansyah Moch Azhar,DS,25,15
+Garut,Garut,Gungun Gunawan,SPV,35,2
+Garut,Garut,Enur Husni Mubarok,DS,25,33
+Garut,Garut,Teten Solehudin,DS,25,21
+Garut,Garut,Musadad Alfaris,DS,25,17
+Garut,Garut,Nuri Nuryanti,DS,25,25
+Garut,Garut,Rifqi Sofwandi,DS,25,27
+Garut,Garut,Fahmi,DS,25,18
+Garut,Garut,Aditia Paturohman,DS,25,31
+Garut,Garut,Trisna Dwinanda,SPV,35,0
+Garut,Garut,Yadi Budiman,DS,25,29
+Garut,Garut,Rohmat Yusup,DS,25,29
+Garut,Garut,Wandi Rizki Mauludin,DS,25,41
+Garut,Garut,Aditya Yuda Pratama,DS,25,26
+Garut,Garut,Yeyen Yudaningsih,DS,25,21
+Garut,Garut,Mia Kurniawan,SPV,35,3
+Garut,Garut,Muhammad Al - Barra,DS,25,20
+Garut,Garut,Nurul Nurbaeti,DS,25,22
+Garut,Garut,Diki Somantri,DS,25,23
+Garut,Garut,Boma Jaya Priatna,DS,25,21
+Garut,Garut,Riki Suganda,DS,25,25
+Banjar,Banjar,Rendra Dudia Sugara, S.T,SPV,35,0
+Banjar,Banjar,Lusy Krisbiyanti,DS,25,24
+Banjar,Banjar,Yayan Sugiana,DS,25,17
+Banjar,Banjar,Ujang Yanto Priyanto,DS,25,25
+Banjar,Banjar,Yuyun Nugraha,DS,25,21
+Banjar,Banjar,Kris Ardianto,DS,25,30
+Banjar,Banjar,Dindin Solehudin,DS,25,12
+Banjar,Banjar,Sachir Adam Nurba,DS,25,28
+Banjar,Banjar,Ipan Sopyan,SPV,35,0
+Banjar,Banjar,Yulius Hilman,DS,25,19
+Banjar,Banjar,Deny Irawan,DS,25,26
+Banjar,Banjar,Adi Suryadi,DS,25,19
+Banjar,Banjar,Herdin Budiawan,DS,25,22
+Banjar,Banjar,Aditya Abdul Muhyi,DS,25,19
+Banjar,Banjar,Nanang Supriatna,SPV,35,0
+Banjar,Banjar,Angga Merdiana,DS,25,27
+Banjar,Banjar,Mahmud,DS,25,21
+Banjar,Banjar,Ahmad Arif Satriono,DS,25,20
+Banjar,Banjar,Deri Kusdiana,DS,25,17
+Banjar,Banjar,Yeni Hardiyani,DS,25,24
+Ciamis,Ciamis,Agnes Jatnika,SPV,35,0
+Ciamis,Ciamis,Ega Imam Syuhada,DS,25,40
+Ciamis,Ciamis,Fuji Firmansyah Saputra,DS,25,28
+Ciamis,Ciamis,Pizki Astrid Desianti,DS,25,25
+Ciamis,Ciamis,Denny Tri Sutendi,DS,25,15
+Ciamis,Ciamis,Iwan Setiawan,DS,25,18
+Ciamis,Ciamis,Osa Usman Rusmana,SPV,35,3
+Ciamis,Ciamis,Sandi Rustandi,DS,25,24
+Ciamis,Ciamis,Santi Mulyanti,DS,25,30
+Ciamis,Ciamis,Insan Saeful Anwar,DS,25,17
+Ciamis,Ciamis,Eka Kartika,DS,25,34
+Ciamis,Ciamis,Mulyamin Aziz,DS,25,16
+Ciawi,Ciawi,Heri Nurdin J,SPV,35,1
+Ciawi,Ciawi,Didi Junaedi,DS,25,9
+Ciawi,Ciawi,Dede Duhan,DS,25,14
+Ciawi,Ciawi,Deni Wilantara,DS,25,19
+Ciawi,Ciawi,Yendi Herdian,DS,25,26
+Ciawi,Ciawi,Jopi Safari,DS,25,39
+Ciawi,Ciawi,Dimas Kurnia Asprilla,DS,25,31
+Ciawi,Ciawi,Yulistia Cahya Kurnia,DS,25,21
+Bandung,Bandung,Robyana,SPV,35,0
+Bandung,Bandung,Riyadi Wijaya,DS,25,20
+Bandung,Bandung,Aep Yudi,DS,25,28
+Bandung,Bandung,Roni Herlani,DS,25,56
+Bandung,Bandung,Angga Saputra,DS,25,61
+Bandung,Bandung,Irsyad Abidin,DS,25,28
+Bandung,Bandung,Samsudin,DS,25,35
+Bandung,Bandung,Dema Ahmad Yanuar,DS,25,9
+Cianjur,Cianjur,Joni M. Fajar,SPV,35,0
+Cianjur,Cianjur,Hendra Darmawan,DS,25,22
+Cianjur,Cianjur,Deni Kurniawan,DS,25,14
+Cianjur,Cianjur,Yeni Sri Ismiati,DS,25,17
+Cianjur,Cianjur,Iki Muhammad Rizky,DS,25,25
+Semarang,Semarang,INDRA SETIAWAN,SPV,35,0
+Semarang,Semarang,Daima,DS,25,73
+Semarang,Semarang,Arief prabowo,DS,25,19
+Semarang,Semarang,Anisa salsa nabila meita,DS,25,46
+Semarang,Semarang,Anityo kukuh wirastantyo,DS,25,28
+Semarang,Semarang,Moch syafrany,DS,25,43
+Semarang,Semarang,Sudibyo pujo wiyono,DS,25,25
+Semarang,Semarang,Dedimy dwi saputra,DS,25,28
+Semarang,Semarang,RUDI KUNCORO,SPV,35,0
+Semarang,Semarang,Achmad hasan arfie,DS,25,41
+Semarang,Semarang,Aditia rahman,DS,25,60
+Semarang,Semarang,Lina indriyani,DS,25,43
+Semarang,Semarang,Rima kuti,DS,25,22
+Semarang,Semarang,Teguh subekti,DS,25,25
+Semarang,Semarang,Michael kevin agusta putra,DS,25,14
+Semarang,Semarang,Andri afrizal,DS,25,18
+Semarang,Semarang,AKHMAD HARUN,SPV,35,0
+Semarang,Semarang,Eri setiawan,DS,25,24
+Semarang,Semarang,Dodo kristono,DS,25,22
+Semarang,Semarang,Avian wijayanto,DS,25,22
+Semarang,Semarang,Widarwanto,DS,25,91
+Semarang,Semarang,Nur kholidin,DS,25,18
+Semarang,Semarang,Wiwin Apit Yulianto,DS,25,19
+Semarang,Semarang,NUR SALIM,SPV,35,29
+Semarang,Semarang,Ahmad Syaikhu,DS,25,37
+Semarang,Semarang,Taufik Jorgi Kurniawan,DS,25,37
+Semarang,Semarang,Pramunita Kristianti,DS,25,36
+Semarang,Semarang,Rindi Adi Pratama,DS,25,19
+Semarang,Semarang,HELMY AS'ARY,SPV,35,7
+Semarang,Semarang,Aries sulistiyanto,DS,25,27
+Semarang,Semarang,Habib Akbar,DS,25,35
+Semarang,Semarang,Rezki Irwandy,DS,25,14
+Semarang,Semarang,Bayu Satria Putra,DS,25,19
+Semarang,Semarang,Rifqi Mubarak,DS,25,44
+Semarang,Semarang,Abdurrahman,DS,25,1
+Semarang,Semarang,IDA BAGUS KAMAJAYA,SPV,35,13
+Semarang,Semarang,Aris Supriyadi,DS,25,57
+Semarang,Semarang,M Abidin ardiyanto,DS,25,26
+Semarang,Semarang,Putri puspitasari,DS,25,28
+Semarang,Semarang,Nendra dewa kurniawan,DS,25,26
+Semarang,Semarang,PRANA BRAHMANTYA,SPV,35,18
+Semarang,Semarang,Frengky Gilang Adi Pradana,DS,25,20
+Semarang,Semarang,Antonia Widya,DS,25,22
+Semarang,Semarang,Khofsah Noor,DS,25,17
+Semarang,Semarang,Francois Febriyanto,DS,25,32
+Semarang,Semarang,Ardianto Arif Pramono,DS,25,17
+Semarang,Semarang,NUR HADI,SPV,35,5
+Semarang,Semarang,Yusuf Rani,DS,25,19
+Semarang,Semarang,Siti Nurjanah,DS,25,33
+Semarang,Semarang,Fitria Jayanti Mahmud,DS,25,11
+Semarang,Semarang,Yosi Imelda,DS,25,2
+Semarang,Semarang,Lilik Setiawan,DS,25,14
+Kendal,Kendal,MASHUDI,SPV,35,9
+Kendal,Kendal,Hendrik Prasetyo,DS,25,45
+Kendal,Kendal,Rizky Akbarudin,DS,25,23
+Kendal,Kendal,Sigit Fendian Oktavianto,DS,25,92
+Kendal,Kendal,Firdaus Koban,DS,25,20
+Kendal,Kendal,Fatahuya alim,DS,25,14
+Kendal,Kendal,Catur setyawati,DS,25,10
+Kendal,Kendal,Ainus safin,DS,25,7
+Kendal,Kendal,ANUGRAH CAHYO WARDIYANTANTO,SPV,35,18
+Kendal,Kendal,Mega Kristiawan,DS,25,19
+Kendal,Kendal,Ahmad Mustofa Habib,DS,25,20
+Kendal,Kendal,Yonatan Nurwidiastoni,DS,25,25
+Kendal,Kendal,Diah perdana yulianingrum,DS,25,10
+Demak,Demak,AGUNG SUGIARTO,SPV,35,29
+Demak,Demak,Dika Catur Susilo,DS,25,30
+Demak,Demak,Ahsanul Khuluk,DS,25,17
+Demak,Demak,Anita Noviani,DS,25,12
+Demak,Demak,Muhammad Afifuddin,DS,25,18
+Demak,Demak,Septi prima Aretha,DS,25,10
+Demak,Demak,TRIAS PUSPITASARI,SPV,35,16
+Demak,Demak,Hendra,DS,25,11
+Demak,Demak,Angga Erwanto,DS,25,15
+Demak,Demak,Mohamad samsuri,DS,25,14
+Demak,Demak,Nur Fattah Robi Damara,DS,25,1
+Demak,Demak,Rio priambodo,DS,25,1
+Kudus,Kudus,Achmad Sahlan Chafid,DS,25,16
+Kudus,Kudus,Syahrul Ramadhan,DS,25,17
+Kudus,Kudus,Rizky Rimayandi Oktiawan,DS,25,16
+Kudus,Kudus,Afifah Nilam Sari,DS,25,1
+Cilacap,Cilacap,AGUS WIDODO CILACAP,SPV,35,0
+Cilacap,Cilacap,ANGGIA IKMA DEWI,DS,25,37
+Cilacap,Cilacap,HENDRI LISTIONO,DS,25,14
+Cilacap,Cilacap,SARWOTO,DS,25,36
+Cilacap,Cilacap,SHERENITA TRIAS YULIANA,DS,25,28
+Cilacap,Cilacap,DWI JAYANTI LESTARI,DS,25,4
+Cilacap,Cilacap,BAYU PAMBUDI CILACAP,SPV,35,4
+Cilacap,Cilacap,LINDA PANGESTIKA,DS,25,40
+Cilacap,Cilacap,AJI PRAYOGA,DS,25,25
+Cilacap,Cilacap,RIZKI WINDU SANCOYO,DS,25,12
+Cilacap,Cilacap,LUKIS RUCIRA ARUNDATI,DS,25,20
+Cilacap,Cilacap,PUPUT FARIDA,DS,25,6
+Cilacap,Cilacap,AWALIAH ZULFA TURROHMAH,,25,6
+Cilacap,Cilacap,DWIKI DARMAYUDA,,25,9
+Kebumen,Kebumen,DONNY DHARMAWAN,SPV,35,2
+Kebumen,Kebumen,ARIF PRIYANTORO KEBUMEN,SPV,25,6
+Kebumen,Kebumen,SLAMET ARIFIN,DS,25,27
+Kebumen,Kebumen,TEGUH PRIHANTO,DS,25,25
+Kebumen,Kebumen,SAEFUL AZIZ,DS,25,16
+Kebumen,Kebumen,SOLIHAT SOBARI,DS,25,11
+Kebumen,Kebumen,AMAD SAEFUDIN,DS,25,
+Kebumen,Kebumen,ACHMAD BUDIMAN,DS,25,
+Kebumen,Kebumen,AHMAD RUBIANTO,DS,25,
+Purwokerto,Purwokerto,PANDU DWI KUSUMA PURWOKERTO,SPV,35,0
+Purwokerto,Purwokerto,SIGIT PUJI ASTUTI,DS,25,36
+Purwokerto,Purwokerto,ASNI ALIFATUN NIDA,DS,25,14
+Purwokerto,Purwokerto,DIKA RIZKI ABADI,DS,25,7
+Purwokerto,Purwokerto,EGA HUTARA PUTRA,DS,25,1
+Tegal,Tegal,PRASTIKA WIGATINING PANGESTUTI,SPV,35,0
+Tegal,Tegal,HAMZAH FAHMI,DS,25,36
+Tegal,Tegal,LATHIF MUTTAQIN,DS,25,41
+Tegal,Tegal,HIJRAH SABILA,DS,25,35
+Tegal,Tegal,KHADZIQUL HUMAM MUNFI,DS,25,21
+Tegal,Tegal,FAUZAN MAULANA ADI,DS,25,31
+Tegal,Tegal,MITA LESTARI,DS,25,14
+Tegal,Tegal,Eko Krismanto,DS,25,22
+Tegal,Tegal,MOHAMAD IMRON, AMDS,DS,25,3
+Tegal,Tegal,MOHAMMAD KAMAL BUSTAMI,DS,25,3
+Solo,Solo,ANSI PUTRI LORENZA,SPV,25,0
+Solo,Solo,RYAN PRAMASDA PUTRA,DS,25,57
+Solo,Solo,BUDI KRISTIAWAN,DS,25,10
+Solo,Solo,GUGUT JULI PRAYITNO,DS,25,11
+Solo,Solo,SISWANTI,DS,25,12
+Solo,Solo,RAHMA PRASETYAWATI,DS,25,9
+Solo,Solo,MARIA AVIANTI,SPV,25,0
+Solo,Solo,JOKO BINTORO,DS,25,13
+Solo,Solo,AWAN AFANOVA,DS,25,19
+Solo,Solo,ANTIK SULISTYOWATI,DS,25,8
+Solo,Solo,SUGIYONO,DS,25,31
+Solo,Solo,TRI HARYANTO,DS,25,9
+Solo,Solo,SUSILO,SPV,25,0
+Solo,Solo,IMAM MULADI,DS,25,26
+Solo,Solo,YULIANTO,DS,25,21
+Solo,Solo,MIFTA HASBI HARIRI,DS,25,12
+Solo,Solo,HERPRATAMA INDRO SETYAJATI,DS,25,2
+Solo,Solo,M SULTAN FAHMI FIRMANSYAH,DS,25,2
+Solo,Solo,DANANG SETYAWAN,SPV,25,0
+Solo,Solo,DENY AJI WIBOWO,DS,25,12
+Solo,Solo,ARIF NUGROHO,DS,25,1
+Solo,Solo,MUHAMMAD DLUNUROEN,DS,25,2
+Solo,Solo,RIZKI BETA KURNIAWAN,DS,25,20
+Solo,Solo,EDWIN CHRISTIAN ISHUANTO,DS,25,3
+Solo,Solo,SAPTOTO WAHYU NUGROHO,DS,25,0
+Solo,Solo,DODY WAHYU PRANOTO, SE,DS,25,3
+Klaten,Klaten,MUAMMAL IQBAL,SPV,25,10
+Klaten,Klaten,IMAM BAGUS FAISAL,DS,25,10
+Klaten,Klaten,FENDI YULIYANTO,DS,25,17
+Klaten,Klaten,HARIYANTO,DS,25,13
+Klaten,Klaten,ARCELA,DS,25,17
+Klaten,Klaten,ADITYA DANAR SAPUTRA,DS,25,3
+Klaten,Klaten,SALSA NUR FITRIA,DS,25,4
+Klaten,Klaten,BEASTRICE ARUM SEKARWANGI,DS,25,5
+Klaten,Klaten,TOTOK YUNUS WEDIYANTO,DS,25,1
+Jogja,Jogja,THERESIA OKTAVIA,SPV,25,0
+Jogja,Jogja,SAFII,DS,25,18
+Jogja,Jogja,MUHAMAD IKSAN,DS,25,12
+Jogja,Jogja,DINA LISTIANA,DS,25,11
+Jogja,Jogja,ANDEG LALA,DS,25,15
+Jogja,Jogja,MIRA SUKMA DEWI ISKANDAR PUTRI,DS,25,12
+Jogja,Jogja,MUHAMMAD RIZKY EKA PUTRA,DS,25,7
+Jogja,Jogja,RIMA TRILIA FIKA SARI,DS,25,5
+Jogja,Jogja,DEMISA ZAI,SPV,25,0
+Jogja,Jogja,NUR HIDAYAT SULISTYA,DS,25,13
+Jogja,Jogja,CHARISMA PRIYA PURNOMO,DS,25,26
+Jogja,Jogja,ESTHI NUGROHO DEWI,DS,25,10
+Jogja,Jogja,MARYADI,DS,25,3
+Jogja,Jogja,DANIEL TUMANAN,DS,25,1
+Jogja,Jogja,RIO MARTIN RUDIANTO,DS,25,9
+Jogja,Jogja,SUMARYADI,SPV,25,0
+Jogja,Jogja,AHLISH HIDAYATULLOH,DS,25,49
+Jogja,Jogja,YOGI PUTRO WASKITO,DS,25,13
+Jogja,Jogja,ARIS KURNIANTORO,DS,25,14
+Jogja,Jogja,RORI PUJI ASTUTI,DS,25,12
+Jogja,Jogja,NOVI EFENDI,DS,25,18
+Jogja,Jogja,MATIAS NOPRYANTO RAUNGKU,DS,25,11
+Jogja,Jogja,R. SUHARJONO,DS,25,10
+Kediri,Kediri,TEGUH JUNNARTO,SPV,35,2
+Kediri,Kediri,NUR BUDI FEBRIANTO,DS,25,17
+Kediri,Kediri,DEWI YUNANIK,DS,25,16
+Kediri,Kediri,IMA PUSPITASARI,DS,25,14
+Kediri,Kediri,DIMAS RAMADHANA,DS,25,17
+Kediri,Kediri,LUSI PURWANTI,DS,25,1
+Kediri,Kediri,KHOIRUL SULTONI,DS,25,5
+Kediri,Kediri,VIRDIAS FATKA PRATAMA,DS,25,1
+Kediri,Kediri,DWI OKTAVIANUS LANGGENG SAPUTRO,DS,25,0
+Kediri,Kediri,ARIEF SETYAJI,SPV,35,1
+Kediri,Kediri,IVON DENSI YOUS MARLINA,DS,25,17
+Kediri,Kediri,RAMADHAN VICKO RAFSANJANI,DS,25,6
+Kediri,Kediri,IMAM FATONI,DS,25,9
+Kediri,Kediri,LUTFI HIDAYAT,DS,25,7
+Kediri,Kediri,TRI LESTARI,DS,25,7
+Kediri,Kediri,CAHYO WICAKSONO,DS,25,10
+Kediri,Kediri,DAFIT PRASETIO,DS,25,17
+Surabaya,Surabaya,Vincentius Fajar Pristiyowanto,SPV,35,1
+Surabaya,Surabaya,AYOK SETIYAWAN,DS,25,4
+Surabaya,Surabaya,achmad bahak udin,DS,25,3
+Surabaya,Surabaya,Moh Dendron Sekundratmo,DS,25,4
+Surabaya,Surabaya,Novan Indarto,DS,25,1
+Surabaya,Surabaya,Imanda Haryo Kusumo,DS,25,1
+Surabaya,Surabaya,Gatot Tri Widodo,DS,25,6
+Ponorogo,Ponorogo,MAMAN FIRMANSYAH,SPV,35,4
+Ponorogo,Ponorogo,ARYO ADHITYAS SETYO,DS,25,11
+Ponorogo,Ponorogo,YETTI FITASARI,DS,25,1
+Malang,Malang,Swardana Arie Ardiansyah,DS,25,10
+Malang,Malang,Redy Deny Triharyanto,DS,25,3
+Malang,Malang,Ricky Supriadi,DS,25,1
+Malang,Malang,Sri Mawarni,DS,25,1
+Malang,Malang,Roy Kusdinono,DS,25,1
+Malang,Malang,Retno Dinafsyaratri,DS,25,0
+Badung,Badung,GEDE OKA CAHYADI PRATAMA,SPV,35,0
+Badung,Badung,NI LUH PUTU ADINDA SUCI LESTARI,Ds,25,31
+Badung,Badung,NI LUH PUTU ASTITI DEWI,Ds,25,84
+Badung,Badung,MALIANA,Ds,25,19
+Badung,Badung,I MADE CANDRA PRANATA,Ds,25,9
+Badung,Badung,I KADEK ALDI ARTANA,Ds,25,2
+Badung,Badung,I GUSTI NGURAH AGUNG MARTA WEDANA PUTRA,Ds,25,2
+Badung,Badung,IRVAN RYNALDI,SPV,25,0
+Badung,Badung,YUDA PRATAMA,Ds,25,64
+Badung,Badung,AGUS JUNIANTO,Ds,25,25
+Badung,Badung,MUHAMMAD CAHYO SAPUTRO,Ds,25,18
+Badung,Badung,PUTU AGUS DARMAWAN,Ds,25,21
+Badung,Badung,AHMAD REHAN DIKI PRAYOGA,Ds,25,2
+Badung,Badung,SAFRIZAL HUTAGALUNG,SPV,35,0
+Badung,Badung,EBEN HAZAER ZAI,Ds,25,28
+Badung,Badung,CERELINA TIO FANI,Ds,25,51
+Badung,Badung,BAYU FERNANDO,Ds,25,7
+Badung,Badung,JORDI UMBU LELE,Ds,25,29
+Badung,Badung,PANGGAH LESTYO ARDIAN,Ds,25,7
+Badung,Badung,M.DWIKI DHARMAWAN,SPV,25,6
+Badung,Badung,HIKMA HAQIQI,Ds,25,20
+Badung,Badung,BINTANG SURIADI SIBARANI,Ds,25,1
+Tabanan,Tabanan,Moh Sadam Putra,SPV,35,0
+Tabanan,Tabanan,Vernando Vargas Kahale,DS,25,0
+Tabanan,Tabanan,ketut Artha Suardika,DS,25,6
+Tabanan,Tabanan,Mohammad Fa'is,DS,25,36
+Tabanan,Tabanan,Anditya Rizki Alfian Adha,DS,25,
+Denpasar,Denpasar,SITI NURHAYATI,SPV,15,10
+Denpasar,Denpasar,I MADE JULIANTARA,Ds,25,23
+Denpasar,Denpasar,NI MADE KARMI,Ds,25,28
+Denpasar,Denpasar,PUTU AGUS PRAMANA PUTRA,Ds,25,6
+Denpasar,Denpasar,SUGIYANTO,Ds,25,17
+Denpasar,Denpasar,DENY PANGDIG JAYA,Ds,25,0
+Denpasar,Denpasar,NI WAYAN MELLAS RISOMAGI,Ds,25,0
+Denpasar,Denpasar,I WAYAN PUTRA PRATAMA,Ds,25,2
+Denpasar,Denpasar,KADEK DEDI RIMAWAN,SPV,15,2
+Denpasar,Denpasar,I WAYAN PUTU SARJANA,Ds,25,25
+Denpasar,Denpasar,I NENGAH SEMARA PUTA,Ds,25,37
+Denpasar,Denpasar,I KOMANG JANUADI,Ds,25,15
+Denpasar,Denpasar,I PUTU AGUS RESKA.K.V,Ds,25,8
+Denpasar,Denpasar,NI KOMANG AYU.W,Ds,25,8
+Denpasar,Denpasar,BAYU SAPUTRA,Ds,25,7
+Denpasar,Denpasar,DHIENRY MARTIANDIKA S,Ds,25,4
+Denpasar,Denpasar,I GUSTI NGURAH AGUNG RAI RAMANATHA,SPV,25,0
+Denpasar,Denpasar,TRIANA JIHAN,Ds,25,30
+Denpasar,Denpasar,NAWAL FAIQOTUL HIKMAH,Ds,25,5
+Denpasar,Denpasar,BARTHOLOMEUS M.J PAREIRA,Ds,25,2
+Denpasar,Denpasar,MARSELINUS SUPARDI,Ds,25,1
+Negara,Negara,Jimmi Kurniawan,SPV,35,0
+Negara,Negara,Heri Susanto,DS,25,28
+Negara,Negara,Erwin Hadi,DS,25,44
+Negara,Negara,I Putu Nova Eka Swastika,DS,25,26
+Negara,Negara,Mohamad Fauzi,DS,25,8
+Negara,Negara,Wiji Astuti,DS,25,7
+Negara,Negara,I Gede Candra Permana Putra Wibawa,SPV,35,0
+Negara,Negara,Zainus Salim,DS,25,27
+Negara,Negara,Kristin Prihatini,DS,25,17
+Negara,Negara,I Gusti Agung Komang Panji Wiryawan,DS,25,0
+Negara,Negara,Sayu Putu Puspa Desi Astiti,DS,25,0
+Negara,Negara,Ahmad Hasibin,DS,25,0
+Bangka Belitung,Bangka Belitung,RISKI ADE WIJAYA,SPV,35,3
+Bangka Belitung,Bangka Belitung,EGI PRASETYO,DS,25,17
+Bangka Belitung,Bangka Belitung,AKHMAD FERDIAWAN RIANSAH,DS,25,16
+Bangka Belitung,Bangka Belitung,RISKOMAR,DS,25,6
+Bangka Belitung,Bangka Belitung,DJUNAS AGUNG PRIHARDA,SPV,35,0
+Bangka Belitung,Bangka Belitung,DEVI OKTAFIANTO,DS,25,9
+Bangka Belitung,Bangka Belitung,DAHLIA,DS,25,15
+Bangka Belitung,Bangka Belitung,SELVIANI UTAMI,DS,25,18
+Bangka Belitung,Bangka Belitung,AMANDA DESIKA,DS,25,19
+Bangka Belitung,Bangka Belitung,DWI EGI RAMDANI,DS,25,7
+Bangka Belitung,Bangka Belitung,YUDI DAMANHURI,SPV,35,9
+Bangka Belitung,Bangka Belitung,NURYANI,DS,25,21
+Bangka Belitung,Bangka Belitung,MARYADI,DS,25,20
+Bangka Belitung,Bangka Belitung,HERLINA MAULITA,DS,25,33
+Bangka Belitung,Bangka Belitung,JOPITER,DS,25,22
+Bangka Belitung,Bangka Belitung,SINTIA,DS,25,3
+Medan,Medan,IRWAN FAUZI HARAHAP,SPV,25,0
+Medan,Medan,JAMOT MANALU,DS,25,35
+Medan,Medan,DIAN ADI PUTRA HASIBUAN,DS,25,32
+Medan,Medan,YON SIDEK SAGALA,DS,25,40
+Medan,Medan,FERI PRATAMA,DS,25,26
+Medan,Medan,IVAL YOGA SARA,DS,25,18
+Medan,Medan,DEDE ZULKARNAIN,SPV,25,0
+Medan,Medan,MUHAMMAD FASHA,DS,25,31
+Medan,Medan,HOTMAULI SIMAREMARE,DS,25,35
+Medan,Medan,RAYMOND H SITANGGANG,DS,25,31
+Medan,Medan,MHD DANDI PRATAMA,DS,25,18
+Medan,Medan,NANDA AKBAR,DS,25,16
+Cirebon,Cirebon,ACHMADUN,SPV,35,0
+Cirebon,Cirebon,MAILAN,DS,25,14
+Cirebon,Cirebon,TRI WAHYONO,DS,25,17
+Cirebon,Cirebon,HARYONO,DS,25,12
+Cirebon,Cirebon,DESI KUSRIYANTI,DS,25,9
+Cirebon,Cirebon,ABDUL RAJAB,DS,25,21
+Cirebon,Cirebon,AJIS SAPTORI,DS,25,12
+Cirebon,Cirebon,ASTRI RAHMAWATI,DS,25,8
+Cirebon,Cirebon,TEGUH PRABOWO,SPV,35,0
+Cirebon,Cirebon,SUTAN ALI SOBANA,DS,25,40
+Cirebon,Cirebon,HAFID SANGIDUN,DS,25,49
+Cirebon,Cirebon,SUJA SUDIRJA,DS,25,55
+Cirebon,Cirebon,RD UJANG OTAN HARTANTO,DS,25,72
+Cirebon,Cirebon,UNTUNG WIBOWO,SPV,35,0
+Cirebon,Cirebon,CUT SALSABILAH SUCIANI,DS,25,28
+Cirebon,Cirebon,MUHAMAD ALFANI,DS,25,15
+Cirebon,Cirebon,DHANI RAMADON,DS,25,15
+Cirebon,Cirebon,ZULMI RAMADHAN,DS,25,28
+Cirebon,Cirebon,HERU SAPUTRA,DS,25,27
+Cirebon,Cirebon,RAHMAT GUMILANG,DS,25,21
+Cirebon,Cirebon,RIFFAN MUBAROK,DS,25,11
+Subang,Subang,BAGAS PERMANA,SPV,35,0
+Subang,Subang,DWI HARI PURNAMA,DS,25,4
+Subang,Subang,JENAR NURJANI,DS,25,34
+Subang,Subang,ASEP RAHMAT,DS,25,27
+Subang,Subang,LILI WARNALI,DS,25,23
+Subang,Subang,RAHMAT HIDAYAT,DS,25,33
+Subang,Subang,YOGI HERMAWAN,DS,25,7
+Subang,Subang,AHMAD BUCHORI,DS,25,3
+Subang,Subang,NAZAR YAHYA,SPV,35,0
+Subang,Subang,ARDEN ZUHDI,DS,25,13
+Subang,Subang,MUHAMMAD JAKA NUGRAHA,DS,25,23
+Subang,Subang,UCI SANUSI,DS,25,29
+Subang,Subang,DENI WAHYUDIN,DS,25,24
+Subang,Subang,MOCHAMAD ALEK LESMANA,DS,25,8
+Subang,Subang,GINANJAR MAULANA YUSUF,DS,25,3
+Subang,Subang,Edi Sunardi,DS,25,0
+Karawang,Karawang,PANDI,SPV,35,0
+Karawang,Karawang,FERRY MAHALIO SUDADI,DS,25,29
+Karawang,Karawang,RIDWAN MAULANA,DS,25,29
+Karawang,Karawang,DADI,DS,25,13
+Karawang,Karawang,JAMALUDIN,DS,25,12
+Purwakarta,Purwakarta,GANI MAULANA,DS,25,2
+Purwakarta,Purwakarta,RONI CAHYANI,DS,25,8
+Purwakarta,Purwakarta,FERDINAND EKO DEWA,DS,25,4
+Purwakarta,Purwakarta,AGUNG SURYANINGRAT,DS,25,5
+Purwakarta,Purwakarta,JONATHAN RIRIHENA,DS,25,2
+Purwakarta,Purwakarta,HERDIANSYAH FAUZAN,DS,25,5
+Cisolok,Cisolok,DEFFAN KAHFI ADHIGUNA,SPV,35,0
+Cisolok,Cisolok,GITUS GISMANA,DS,25,15
+Cisolok,Cisolok,MOHAMAD RAMLI,DS,25,8
+Cisolok,Cisolok,YULI YULIANA,DS,25,13
+Cisolok,Cisolok,YOGI,DS,25,18
+Cisolok,Cisolok,AGAM MULIA,DS,25,2
