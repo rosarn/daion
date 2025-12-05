@@ -1,4 +1,3 @@
-# src/language/language_config.py
 import streamlit as st
 
 LANGUAGES = {
@@ -113,7 +112,7 @@ LANGUAGES = {
         'performers': "Performers",
         'detailed_data': "Detailed Data",
         'recommendations': "Recommendations",
-        'footer_text': "Dashboard updated automatically • Data period",
+        'footer_text': "Dashboard updated • Data period",
         'last_updated': "Last updated",
         'search_name': "Search Name",
         'sort_by': "Sort By",
@@ -151,10 +150,10 @@ LANGUAGES = {
     }
 }
 
-# DEFAULT LANGUAGE → SET TO ENGLISH
+# DEFAULT LANGUAGE → SET TO FULL ENGLISH 
 def init_language():
     if 'language' not in st.session_state:
-        st.session_state.language = 'english'  # ← FULL ENGLISH DEFAULT
+        st.session_state.language = 'english'  
     if 'periode_data' not in st.session_state:
         st.session_state.periode_data = "July - August 2024"
 

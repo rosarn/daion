@@ -39,7 +39,15 @@ analyst/
     │   └── language_config.py
     └── utils/
         └── utils.py
+├── backend
+├── .venv
+├── __pycache__
+├── excel
+├── csv
 ├── satu.py
+├── style_dataframe.py
+├── test.py
+├── uv.lock
 ├── requirements.txt
 └── README.md
 ```
